@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Aadarsh 👋</h1>
 
 <p align="center">
-B.Tech CSE • Backend-focused builder • Learning by shipping projects
+B.Tech CSE • Backend-focused builder • Learning by building projects
 </p>
 
 <p align="center">
@@ -35,14 +35,14 @@ I enjoy turning ideas into working products and learning through iteration.
 
 ## /currently_learning
 
-
+```
 class CurrentFocus {
     String backend = "Spring Boot";
     String language = "Java";
     String fundamentals = "DSA + Core Concepts";
     String goal = "Build stronger full-stack systems";
 }
-
+```
 
 ---
 
@@ -106,7 +106,6 @@ Things I enjoy outside development:
 🏏 Cricket  
 🏋️ Fitness  
 🧩 Problem solving  
-🎨 Design
 
 ---
 
@@ -114,11 +113,10 @@ Things I enjoy outside development:
 
 <p>
 
-🔗 LinkedIn → [ADD_LINKEDIN_URL]
+🔗 LinkedIn → https://www.linkedin.com/in/aadarsh-kumar-646361335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-🌐 Portfolio → [ADD_PORTFOLIO_URL]
+🌐 Portfolio → https://aadarsh-portfolio-7.netlify.app/
 
-📄 Resume → [OPTIONAL_RESUME_LINK]
 
 </p>
 
@@ -129,4 +127,3 @@ Things I enjoy outside development:
 **Building. Learning. Improving. Repeat.**
 
 </div>
-````
