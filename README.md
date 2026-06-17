@@ -1,161 +1,124 @@
+
 <h1 align="center">Hi, I'm Aadarsh 👋</h1>
 
 <p align="center">
-B.Tech Student • PERN Stack Developer • Java • Frontend • AI/ML Explorer
+B.Tech CSE • Backend-focused builder • Learning by shipping projects
 </p>
 
 <p align="center">
-Building products and learning every day.
+Building web apps • Exploring software development • Growing one project at a time
 </p>
 
 <p align="center">
-  <a href="https://github.com/aadarsh2006ak">
-    <img src="https://komarev.com/ghpvc/?username=aadarsh2006ak&style=flat-square" alt="Profile Views"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=aadarsh2006ak&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-## About Me
+## /about_me
 
-I'm a **B.Tech student (graduating in 2026)** who enjoys building products that combine **clean UI, practical functionality, and thoughtful user experiences**.
+```txt
+> Student → Builder → Better builder
+```
 
-My current focus is creating full-stack applications with the **PERN stack**, strengthening my **Java fundamentals**, and exploring **AI / ML concepts** while continuing to improve through real projects.
+I'm a Computer Science student focused on software development.
 
-I enjoy:
-- Building polished interfaces
-- Solving problems through projects
-- Turning ideas into working products
-- Learning fast and improving continuously
+Right now I'm spending most of my time:
+- building full-stack projects
+- strengthening Java core concepts
+- improving backend thinking
+- learning how production apps are designed
 
----
-
-## Tech Stack
-
-<div align="left">
-
-### Languages
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
-
-### Frontend
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react)
-![HTML](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css)
-
-### Backend & Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql)
-![Express](https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js)
-
-### Exploring
-![AI](https://img.shields.io/badge/AI-111111?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-111111?style=for-the-badge)
-
-</div>
+I enjoy turning ideas into working products and learning through iteration.
 
 ---
 
-## Featured Projects
+## /currently_learning
 
-<table>
-<tr>
-<td width="50%">
 
-### AK Store — MERN Ecommerce
-A modern ecommerce application focused on usability, product flow, and full-stack functionality.
+class CurrentFocus {
+    String backend = "Spring Boot";
+    String language = "Java";
+    String fundamentals = "DSA + Core Concepts";
+    String goal = "Build stronger full-stack systems";
+}
 
-**Highlights**
-- Full-stack architecture
-- Responsive UI
-- Product management flow
-
-→ Add Repository Link
-
-</td>
-
-<td width="50%">
-
-### Portfolio Website
-Personal developer portfolio built to showcase projects, skills, and design thinking.
-
-**Highlights**
-- Modern interface
-- Responsive design
-- Personal branding
-
-→ Add Live URL
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### Student Assignment Management System
-Role-based dashboard for Students, Teachers, and Admins.
-
-**Highlights**
-- React architecture
-- Assignment tracking
-- Progress visualization
-
-</td>
-
-<td width="50%">
-
-### Utility Projects
-Weather App • Currency Converter
-
-Focused on:
-- API integration
-- Clean UI
-- Fast interactions
-
-</td>
-</tr>
-</table>
 
 ---
 
-## GitHub Analytics
+## /tech_stack
 
-<div align="center">
+<p>
+
+<img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express"/>
+<img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git"/>
+
+</p>
+
+---
+
+## /featured_projects
+
+| Project | Description |
+|---|---|
+| **my-portfolio** | Personal portfolio website to present projects, skills, and developer journey |
+| **mern-project-E-commerce-1** | Full-stack e-commerce application with product flow and modern web architecture |
+| **currency-converter** | Currency conversion tool focused on API integration and frontend usability |
+| **student-assignment-management-system** | Assignment tracking system for managing submissions and workflow |
+| **weather-app** | Weather application using live data and responsive UI |
+| **netflix clone** | Streaming-inspired UI recreation focused on frontend implementation |
+| **ed-tech platform** | Learning platform concept built around education and user interaction |
+
+> More projects → Explore my repositories
+
+---
+
+## /developer_stats
+
+<p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=aadarsh2006ak&show_icons=true&hide_border=true&theme=transparent"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadarsh2006ak&layout=compact&hide_border=true&theme=transparent"/>
 
-</div>
+</p>
 
-<br>
+<p align="center">
 
-<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=aadarsh2006ak&theme=transparent&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=aadarsh2006ak&theme=transparent&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
-## Current Focus
+## /outside_the_code
 
-text
-→ Building stronger PERN projects
-→ Improving Java and problem solving
-→ Learning AI / ML concepts
-→ Designing cleaner user experiences
-`
+Things I enjoy outside development:
+
+🎮 Gaming  
+🏏 Cricket  
+🏋️ Fitness  
+🧩 Problem solving  
+🎨 Design
 
 ---
 
-## Connect
+## /connect
 
-<p align="left">
+<p>
 
-LinkedIn → YOUR_LINKEDIN_URL
+🔗 LinkedIn → [ADD_LINKEDIN_URL]
 
-Portfolio → YOUR_PORTFOLIO_URL
+🌐 Portfolio → [ADD_PORTFOLIO_URL]
+
+📄 Resume → [OPTIONAL_RESUME_LINK]
 
 </p>
 
@@ -163,8 +126,7 @@ Portfolio → YOUR_PORTFOLIO_URL
 
 <div align="center">
 
-Thanks for visiting.
-
-Keep building. Keep learning.
+**Building. Learning. Improving. Repeat.**
 
 </div>
+````
