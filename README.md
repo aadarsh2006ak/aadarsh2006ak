@@ -1,4 +1,3 @@
-md
 <h1 align="center">Hi, I'm Aadarsh 👋</h1>
 
 <p align="center">
