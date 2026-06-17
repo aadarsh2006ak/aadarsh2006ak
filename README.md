@@ -1,4 +1,4 @@
-````md
+md
 <h1 align="center">Hi, I'm Aadarsh 👋</h1>
 
 <p align="center">
@@ -141,7 +141,7 @@ Focused on:
 
 ## Current Focus
 
-```text
+text
 → Building stronger PERN projects
 → Improving Java and problem solving
 → Learning AI / ML concepts
