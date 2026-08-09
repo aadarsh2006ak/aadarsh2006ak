@@ -1,43 +1,405 @@
-# 👋 Hey, I'm Hemanth Kattamuri
+<div align="center">
 
-### 🚀 Web Developer | AI & ML Enthusiast | Backend Learner
+# 👋 Hey, I'm Aadarsh Kumar
 
-<p align="left">
-  <a href="https://github.com/Hemu2174">
-    <img src="https://img.shields.io/github/followers/Hemu2174?label=Followers&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Hemu2174?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-18-blue?style=for-the-badge" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Java+Developer+☕;Full+Stack+Developer+🌐;MERN+Stack+Developer+⚡;AI+%26+GenAI+Enthusiast+🤖;DSA+%26+Problem+Solving+%F0%9F%A7%A0;Building+Real-World+Projects+%F0%9F%9A%80" alt="Typing SVG" />
 
-> 💡 *"Code. Debug. Learn. Build. Repeat."*
+<br/>
 
-I'm a developer from **India 🇮🇳** passionate about building practical software solutions and continuously improving my development skills.
+<a href="https://github.com/aadarsh2006ak">
+<img src="https://komarev.com/ghpvc/?username=aadarsh2006ak&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</a>
 
-Currently exploring **AI/ML, Backend Development, Java, Databases and MERN Stack** while working on real-world projects.
+<a href="https://github.com/aadarsh2006ak?tab=followers">
+<img src="https://img.shields.io/github/followers/aadarsh2006ak?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
+</a>
+
+<a href="https://github.com/aadarsh2006ak?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-orange?style=for-the-badge" alt="Repositories"/>
+</a>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
 
-```javascript
-const hemanth = {
-    role: "Web Developer",
-    focus: ["AI/ML", "Backend Development", "Web Development"],
-    languages: ["Java", "JavaScript"],
-    learning: ["MERN Stack", "AI/ML", "Backend Development"],
-    interests: [
-        "Building Real-World Projects",
-        "Problem Solving",
-        "Artificial Intelligence",
-        "Web Development"
-    ],
-    mindset: "Always learning. Always building."
-};
+### 🚀 `Code. Build. Solve. Learn. Repeat.`
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/Developer.gif" />
+
+I'm **Aadarsh Kumar**, a B.Tech CSE student and developer passionate about building scalable and practical software solutions.
+
+I have a strong foundation in **Java, Object-Oriented Programming, Data Structures & Algorithms**, along with hands-on experience in **Full Stack Development using the MERN stack** and **Generative AI APIs**.
+
+### 🔭 Currently focusing on
+
+* ☕ Java & Data Structures
+* 🧠 Object-Oriented Programming
+* 🌐 MERN Stack Development
+* ⚙️ Backend & REST APIs
+* 🤖 Generative AI
+* 🚀 Real-world Full Stack Applications
+* 🐳 Docker & developer tools
+
+<br clear="right"/>
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Programming & Core
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js&perline=8" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-5C2D91?style=for-the-badge"/>
+</p>
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&perline=8" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=8" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
+</p>
+
+### 🤖 AI & Generative AI
+
+<p>
+<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge"/>
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman&perline=8" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Cursor%20AI-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎓 Student Tech Portal
+
+**Student Tech Portal & Recruitment System**
+
+A Core Java + OOP based recruitment application designed with scalable backend architecture.
+
+**Highlights**
+
+* 🔐 Role-based access
+* 👨‍🎓 Student module
+* 💼 Recruiter module
+* 🔄 Application management
+* 🧩 OOP architecture
+
+**Tech**
+
+`Java` `OOP` `DSA`
+
+</td>
+
+<td width="50%">
+
+### 💼 Placement Hub
+
+**MERN + Gemini API**
+
+An end-to-end placement preparation platform providing personalized career guidance and interview preparation.
+
+**Highlights**
+
+* 🤖 Gemini API
+* 📚 Interview preparation
+* 📊 Coding tracking
+* 📄 Resume generation
+* 👨‍🎓 Student dashboard
+
+**Tech**
+
+`MongoDB` `Express` `React` `Node.js` `Gemini API`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧠 Medical Report Analyzer
+
+An AI-powered application that extracts information from medical reports and generates simplified summaries.
+
+**Highlights**
+
+* 📄 OCR text extraction
+* 🤖 Gemini API
+* 📊 Analytical dashboard
+* ⚠️ Risk indicators
+* 💡 Simplified recommendations
+
+**Tech**
+
+`OCR` `Generative AI` `Gemini API`
+
+</td>
+
+<td width="50%">
+
+### 🚀 AI Career Accelerator
+
+AI-powered **Resume Analyzer** developed during the Tech4Hack Hackathon.
+
+The project focuses on helping users analyze resumes and improve career preparation using AI.
+
+**Tech**
+
+`Generative AI` `Web Development` `AI`
+
+</td>
+</tr>
+</table>
+
+---
+
+# 💼 Internship Experience
+
+### 🚀 Full Stack Developer Intern
+
+**UptoSkills & Intern Infobyte**
+
+`May 2026 – July 2026`
+
+* Built **4 responsive utility applications**
+* Worked on Movie, Weather, Todo and Restaurant applications
+* Integrated **2+ RESTful APIs**
+* Developed RESTful CRUD APIs
+* Worked with MongoDB indexing
+* Improved frontend performance and backend data retrieval
+
+### 🤖 Generative AI & Cloud Computing Intern
+
+**IBM SkillBuild × BharatCares**
+
+`June 2026 – July 2026`
+
+* Worked as part of a **4-member agile team**
+* Collaborated through 6-week development sprints
+* Helped resolve architectural bottlenecks
+* Contributed to delivering a functional prototype
+
+---
+
+# 🏆 Achievements
+
+🏅 **Hack or Crack 2.0 — CTF / Hackathon**
+
+Participated in algorithmic and security challenges.
+
+🏆 **Tech4Hack Hackathon — Thoughtworks Technologies**
+
+Collaborated on the **Resume Analyzer / AI Career Accelerator** project.
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=aadarsh2006ak&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadarsh2006ak&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=aadarsh2006ak&theme=tokyonight&hide_border=true&mode=weekly" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aadarsh2006ak&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aadarsh2006ak&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/aadarsh2006ak/aadarsh2006ak/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+```text
+☕ Master Java & DSA
+        ↓
+🌐 Build scalable Full Stack Applications
+        ↓
+⚙️ Become stronger in Backend Development
+        ↓
+🤖 Build AI-powered applications
+        ↓
+🐳 Learn production & deployment workflows
+        ↓
+🌎 Contribute to Open Source
+        ↓
+🏆 Participate in Hackathons
 ```
 
 ---
+
+# 🧠 My Developer Journey
+
+<div align="center">
+
+```text
+              ┌─────────────────┐
+              │   Java + DSA    │
+              └────────┬────────┘
+                       ↓
+              ┌─────────────────┐
+              │      OOP        │
+              └────────┬────────┘
+                       ↓
+              ┌─────────────────┐
+              │ Frontend Dev    │
+              └────────┬────────┘
+                       ↓
+              ┌─────────────────┐
+              │   MERN Stack    │
+              └────────┬────────┘
+                       ↓
+              ┌─────────────────┐
+              │ Backend + APIs  │
+              └────────┬────────┘
+                       ↓
+              ┌─────────────────┐
+              │ Generative AI   │
+              └────────┬────────┘
+                       ↓
+              ┌─────────────────┐
+              │ AI + Full Stack │
+              └─────────────────┘
+```
+
+</div>
+
+---
+
+# 💡 What I Believe
+
+> **"The best way to learn development is to build something real."**
+
+```text
+Learn
+  ↓
+Build
+  ↓
+Break
+  ↓
+Debug
+  ↓
+Improve
+  ↓
+Repeat 🚀
+```
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/aadarsh2006ak">
+<img src="https://img.shields.io/badge/GitHub-aadarsh2006ak-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://aadarsh-dev-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Aadarsh%20Dev-00A98F?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aadarshkumar2006/">
+<img src="https://img.shields.io/badge/LinkedIn-Aadarsh%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/aadarsh_2026/">
+<img src="https://img.shields.io/badge/LeetCode-aadarsh__2026-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="mailto:kumar869645@gmail.com">
+<img src="https://img.shields.io/badge/Email-kumar869645%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Thanks for visiting my profile!
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+%F0%9F%91%8B;Let's+build+something+amazing!+%F0%9F%9A%80;Keep+Coding+%7C+Keep+Learning+%7C+Keep+Building+%F0%9F%92%BB" />
+
+<br/>
+
+⭐ **If you like my work, consider giving my repositories a star!**
+
+</div>
 
 ## 🛠️ Tech Stack
 
