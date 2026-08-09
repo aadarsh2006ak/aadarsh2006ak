@@ -7,7 +7,7 @@
 
   <!-- ==================== ANIMATED TYPING SVG ==================== -->
   <a href="https://aadarsh-dev-portfolio.netlify.app/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&height=50&lines=☕+Java+%26+OOP+Software+Developer;⚡+Full+Stack+MERN+Engineer;🧠+Generative+AI+%26+LLM+Integrator;🚀+Competitive+Programmer+%40LeetCode;🎯+B.Tech+CSE+Student+(2024-2028)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&height=50&lines=☕+Java+%26+OOP+Software+Developer;⚡+Full+Stack+MERN+Engineer;🧠+Generative+AI+%26+LLM+Integrator;🚀+Competitive+Programmer+%40LeetCode;🎯+B.Tech+CSE+Student+(2024-2028)" alt="Typing SVG" />
   </a>
 
   <!-- ==================== STATS & STATUS PILLS ==================== -->
@@ -139,23 +139,23 @@ Developer Profile:
 
 <div align="center">
 
-  <!-- ==================== GITHUB STATS & TOP LANGUAGES ==================== -->
+  <!-- ==================== RELIABLE STREAK & LEETCODE CARDS ==================== -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=aadarsh2006ak&show_icons=true&theme=radical&hide_border=true&title_color=8b5cf6&icon_color=ec4899&text_color=94a3b8&bg_color=0d1117" height="175" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadarsh2006ak&layout=compact&theme=radical&hide_border=true&title_color=8b5cf6&text_color=94a3b8&bg_color=0d1117" height="175" alt="Top Languages" />
-  </p>
-
-  <!-- ==================== STREAK STATS & LEETCODE ==================== -->
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadarsh2006ak&theme=radical&hide_border=true&background=0d1117&ring=8b5cf6&fire=ec4899&currStreakLabel=8b5cf6" height="175" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=aadarsh2006ak&theme=radical&hide_border=true&background=0d1117&ring=8b5cf6&fire=ec4899&currStreakLabel=8b5cf6" height="185" alt="GitHub Streak" />
     <a href="https://leetcode.com/u/aadarsh_2026/" target="_blank">
-      <img src="https://leetcard.jacoblin.cool/aadarsh_2026?theme=dark&font=Fira%20Code&ext=heatmap" height="175" alt="LeetCode Stats" />
+      <img src="https://leetcard.jacoblin.cool/aadarsh_2026?theme=dark&font=Fira%20Code&ext=heatmap" height="185" alt="LeetCode Card" />
     </a>
   </p>
 
-  <!-- ==================== GITHUB TROPHIES ==================== -->
+  <!-- ==================== ANIMATED INTERACTIVE ACTIVITY GRAPH ==================== -->
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=aadarsh2006ak&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadarsh2006ak&theme=react-dark&hide_border=true&area=true&color=8b5cf6&line=ec4899&point=6366f1" width="96%" alt="Activity Graph" />
+  </p>
+
+  <!-- ==================== GITHUB PROFILE SUMMARY TILES ==================== -->
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadarsh2006ak&theme=radical" width="48%" alt="Profile Details" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aadarsh2006ak&theme=radical" width="48%" alt="Top Languages" />
   </p>
 
 </div>
