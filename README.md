@@ -1,51 +1,182 @@
-# 👋 Hey, I'm Aadarsh
+# 👋 Hey, I'm Hemanth Kattamuri
 
-### 🚀 Java Developer | Full Stack Developer | MERN Stack Developer
+### 🚀 Web Developer | AI & ML Enthusiast | Backend Learner
 
 <p align="left">
-  <a href="https://github.com/aadarsh2006ak">
-    <img src="https://img.shields.io/github/followers/aadarsh2006ak?label=Followers&style=for-the-badge" />
+  <a href="https://github.com/Hemu2174">
+    <img src="https://img.shields.io/github/followers/Hemu2174?label=Followers&style=for-the-badge" />
   </a>
-  <a href="https://github.com/aadarsh2006ak?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-blue?style=for-the-badge" />
+  <a href="https://github.com/Hemu2174?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-18-blue?style=for-the-badge" />
   </a>
 </p>
 
-> 💡 **"Learn → Build → Solve → Improve → Repeat."**
+> 💡 *"Code. Debug. Learn. Build. Repeat."*
 
-I'm a **B.Tech CSE student** and developer passionate about building scalable, real-world software solutions.
+I'm a developer from **India 🇮🇳** passionate about building practical software solutions and continuously improving my development skills.
 
-I have a strong foundation in **Java, Object-Oriented Programming, Data Structures & Algorithms**, along with hands-on experience in **Full Stack Development using the MERN stack** and **Generative AI APIs**.
-
-Currently focused on building **production-ready applications, AI-powered solutions and end-to-end software systems.**
+Currently exploring **AI/ML, Backend Development, Java, Databases and MERN Stack** while working on real-world projects.
 
 ---
 
 ## 👨‍💻 About Me
 
 ```javascript
-const aadarsh = {
-    role: "Java Developer | Full Stack Developer",
-    education: "B.Tech CSE",
-    
-    coreSkills: [
-        "Data Structures & Algorithms",
-        "Object-Oriented Programming",
-        "Problem Solving"
+const hemanth = {
+    role: "Web Developer",
+    focus: ["AI/ML", "Backend Development", "Web Development"],
+    languages: ["Java", "JavaScript"],
+    learning: ["MERN Stack", "AI/ML", "Backend Development"],
+    interests: [
+        "Building Real-World Projects",
+        "Problem Solving",
+        "Artificial Intelligence",
+        "Web Development"
     ],
+    mindset: "Always learning. Always building."
+};
+```
 
-    programming: [
-        "Java",
-        "JavaScript"
-    ],
+---
 
-    fullStack: [
-        "React.js",
-        "Node.js",
-        "Express.js",
-        "MongoDB",
-        "REST APIs"
-    ],
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MERN-Stack-61DAFB?style=for-the-badge"/>
+</p>
+
+### 🤖 AI / ML
+
+<p>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange"/>
+</p>
+
+### 🗄️ Backend & Database
+
+<p>
+  <img src="https://img.shields.io/badge/Backend-Development-6DB33F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Database-4479A1?style=for-the-badge"/>
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🍔 Foodie Hub
+
+A modern and responsive food showcase website with animated navigation, interactive meal cards, food icons and an attractive gallery.
+
+**Tech:** HTML • CSS • JavaScript
+
+---
+
+### 🚌 Bus Pass Management System
+
+A web-based project designed to simplify bus pass management and provide a structured digital experience.
+
+**Tech:** JavaScript • Web Technologies
+
+---
+
+### 🎮 Animated Gaming Website
+
+A visually engaging gaming website focused on animations, interactive UI and modern web design.
+
+**Tech:** JavaScript • HTML • CSS
+
+---
+
+### 🗺️ Learn Roadmap
+
+An interactive roadmap project designed to help learners understand and follow a structured learning path.
+
+**Tech:** JavaScript • Web Technologies
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hemu2174&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemu2174&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Hemu2174&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+* 🤖 Artificial Intelligence & Machine Learning
+* 🌐 MERN Stack Development
+* ⚙️ Backend Development
+* ☕ Advanced Java & Problem Solving
+* 🗄️ Databases & API Development
+* 🚀 Building Real-World Projects
+
+---
+
+## 🎯 2026 Goals
+
+```text
+✅ Build more real-world projects
+✅ Improve Java & DSA
+✅ Strengthen Backend Development
+✅ Learn AI/ML practically
+✅ Build full-stack applications
+✅ Contribute to Open Source
+✅ Participate in Hackathons
+```
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://github.com/Hemu2174">
+    <img src="https://img.shields.io/badge/GitHub-Hemu2174-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hemanth-kattamuri-761535293/">
+    <img src="https://img.shields.io/badge/LinkedIn-Hemanth%20Kattamuri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 💭 Developer Mindset
+
+> **Learn → Build → Break → Debug → Improve → Repeat.**
+
+⭐ If you find my projects interesting, feel free to explore my repositories and connect with me!
+
+**Thanks for visiting my profile! 🚀**
 
     frontend: [
         "HTML5",
