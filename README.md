@@ -1,22 +1,24 @@
 <div align="center">
 
-  <!-- ==================== HEADER CAPSULE BANNER ==================== -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,16,21&height=220&section=header&text=Hi,%20I'm%20Aadarsh%20👋&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Java%20Developer%20|%20Full%20Stack%20%26%20MERN%20Architect%20|%20Gen-AI%20Builder&descAlignY=60&descAlign=50&descSize=18" width="100%" alt="Header Banner"/>
+  <!-- ==================== HEADER ANIMATED BANNER ==================== -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=230&section=header&text=Hi,%20I'm%20Aadarsh%20👋&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Java%20Developer%20%E2%80%A2%20Full%20Stack%20MERN%20Architect%20%E2%80%A2%20Gen-AI%20Builder&descAlignY=62&descAlign=50&descSize=18" width="100%" alt="Header Banner" />
 
-  <!-- ==================== DYNAMIC TYPING SVG ==================== -->
+  <br/>
+
+  <!-- ==================== ANIMATED TYPING SVG ==================== -->
   <a href="https://aadarsh-dev-portfolio.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&width=620&height=50&lines=☕+Java+%26+OOP+Software+Developer;⚡+Full+Stack+MERN+Stack+Engineer;🧠+Building+AI-Powered+Web+Applications;🚀+Competitive+Programmer+%40LeetCode;🎯+B.Tech+CSE+Undergrad+(2024-2028)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&height=50&lines=☕+Java+%26+OOP+Software+Developer;⚡+Full+Stack+MERN+Engineer;🧠+Generative+AI+%26+LLM+Integrator;🚀+Competitive+Programmer+%40LeetCode;🎯+B.Tech+CSE+Student+(2024-2028)" alt="Typing SVG" />
   </a>
 
-  <!-- ==================== PROFILE VISITOR COUNTER & STATUS ==================== -->
+  <!-- ==================== STATS & STATUS PILLS ==================== -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=aadarsh2006ak&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-success?style=flat-square&logo=gitbook&logoColor=white" alt="Status" />
-    <img src="https://img.shields.io/badge/Focus-High%20Performance%20Software-blueviolet?style=flat-square&logo=speedtest&logoColor=white" alt="Focus" />
-    <img src="https://img.shields.io/github/followers/aadarsh2006ak?label=Followers&style=flat-square&color=238636&logo=github" alt="Followers" />
+    <img src="https://komarev.com/ghpvc/?username=aadarsh2006ak&label=Profile%20Views&color=8b5cf6&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-10b981?style=flat-square&logo=gitbook&logoColor=white" alt="Status" />
+    <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-6366f1?style=flat-square&logo=speedtest&logoColor=white" alt="Focus" />
+    <img src="https://img.shields.io/github/followers/aadarsh2006ak?label=Followers&style=flat-square&color=ec4899&logo=github" alt="Followers" />
   </p>
 
-  <!-- ==================== SOCIAL / CONTACT PILLS ==================== -->
+  <!-- ==================== SOCIAL MEDIA BUTTONS ==================== -->
   <p align="center">
     <a href="https://aadarsh-dev-portfolio.netlify.app/" target="_blank">
       <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
@@ -42,25 +44,26 @@
 ### 💫 About Me
 
 ```yaml
-name: Aadarsh
-education: B.Tech in Computer Science & Engineering (2024 - 2028)
-institution: Ganga Institute of Technology & Management (CGPA: 7.4)
-location: New Delhi, India 🇮🇳
-passion: Translating complex algorithmic logic into production-ready software
-interests:
-  - Enterprise Java & Object-Oriented Architecture
-  - Modern Full Stack Development (React, Vite, Node.js, Express, MongoDB)
-  - Generative AI, Gemini APIs & Agentic LLM Automation
-  - Data Structures & Algorithms Optimization
+Developer Profile:
+  Name: Aadarsh
+  Role: Java Developer | Full Stack MERN Developer | Gen-AI Enthusiast
+  Education: B.Tech in Computer Science & Engineering (2024 - 2028)
+  Institution: Ganga Institute of Technology & Management (CGPA: 7.4)
+  Location: New Delhi, India 🇮🇳
+  Core Passions:
+    - Enterprise Java, OOP Architecture & Design Patterns
+    - Full-Stack Web Development (React 19, Tailwind, Node.js, Express, MongoDB)
+    - Generative AI & Gemini API Workflow Automation
+    - Data Structures, Algorithms & Competitive Programming
 ```
 
-- 🔭 **Currently Building:** **AI Placement Hub** — A full-stack AI-driven platform for ATS resume scoring, mock interview simulations, and recruiter candidate ranking.
-- 💼 **Past Internships:** 
-  - **Full Stack Developer Intern** @ *UptoSkills & Intern Infobyte* (Optimized API latency by 35% & cross-device speed by 20%).
-  - **Gen-AI & Cloud Computing Intern** @ *IBM SkillsBuild x BharatCares* (Agile prototype delivery & LLM pipeline integrations).
+- 🔭 **Currently Architecting:** **AI Placement Hub** — A full-stack placement prep & ATS matching platform with AI mock interviews and recruiter candidate pipeline.
+- 💼 **Industry Experience:**
+  - **Full Stack Developer Intern** @ *UptoSkills & Intern Infobyte* — Reduced API latency by **35%** and boosted cross-device load times by **20%**.
+  - **Gen-AI & Cloud Computing Intern** @ *IBM SkillsBuild x BharatCares* — Built production LLM workflow prototypes in an agile virtual sprint.
 - 🏆 **Hackathons & Competitions:** Completed **Hack or Crack 2.0 (CTF)** & built an AI Career Accelerator in **Tech4Hack by Thoughtworks**.
-- 💬 **Ask me about:** Java, OOP Principles, REST API Security, React Architecture, and MERN optimization.
-- 📫 **Reach out:** [kumar869645@gmail.com](mailto:kumar869645@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aadarshkumar2006/)
+- 💬 **Ask me about:** Java, OOP, Data Structures, MERN Stack, RESTful APIs, and Gen-AI.
+- 📫 **Contact:** [kumar869645@gmail.com](mailto:kumar869645@gmail.com) | [LinkedIn Profile](https://www.linkedin.com/in/aadarshkumar2006/)
 
 ---
 
@@ -136,31 +139,24 @@ interests:
 
 <div align="center">
 
-  <!-- ==================== GITHUB STATS CARDS ==================== -->
+  <!-- ==================== GITHUB STATS & TOP LANGUAGES ==================== -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=aadarsh2006ak&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366f1&icon_color=38bdf8&text_color=94a3b8&bg_color=0f172a" height="175" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadarsh2006ak&layout=compact&theme=tokyonight&hide_border=true&title_color=6366f1&text_color=94a3b8&bg_color=0f172a" height="175" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=aadarsh2006ak&show_icons=true&theme=radical&hide_border=true&title_color=8b5cf6&icon_color=ec4899&text_color=94a3b8&bg_color=0d1117" height="175" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadarsh2006ak&layout=compact&theme=radical&hide_border=true&title_color=8b5cf6&text_color=94a3b8&bg_color=0d1117" height="175" alt="Top Languages" />
   </p>
 
-  <!-- ==================== STREAK STATS ==================== -->
+  <!-- ==================== STREAK STATS & LEETCODE ==================== -->
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadarsh2006ak&theme=tokyonight&hide_border=true&background=0f172a&ring=6366f1&fire=ec4899&currStreakLabel=6366f1" width="48%" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadarsh2006ak&theme=radical&hide_border=true&background=0d1117&ring=8b5cf6&fire=ec4899&currStreakLabel=8b5cf6" height="175" alt="GitHub Streak" />
     <a href="https://leetcode.com/u/aadarsh_2026/" target="_blank">
-      <img src="https://leetcard.jacoblin.cool/aadarsh_2026?theme=dark&font=Fira%20Code&ext=heatmap" width="48%" alt="LeetCode Card" />
+      <img src="https://leetcard.jacoblin.cool/aadarsh_2026?theme=dark&font=Fira%20Code&ext=heatmap" height="175" alt="LeetCode Stats" />
     </a>
   </p>
 
   <!-- ==================== GITHUB TROPHIES ==================== -->
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=aadarsh2006ak&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=aadarsh2006ak&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
   </p>
-
-  <!-- ==================== ANIMATED SNAKE CONTRIBUTION GRAPH ==================== -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aadarsh2006ak/aadarsh2006ak/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aadarsh2006ak/aadarsh2006ak/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/aadarsh2006ak/aadarsh2006ak/output/github-contribution-grid-snake.svg" width="90%">
-  </picture>
 
 </div>
 
@@ -170,7 +166,7 @@ interests:
 
 <div align="center">
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 
 </div>
 
@@ -178,7 +174,7 @@ interests:
 
 <!-- ==================== FOOTER WAVE BANNER ==================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,16,21&height=120&section=footer" width="100%" alt="Footer Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=120&section=footer" width="100%" alt="Footer Banner" />
   
   <p align="center">
     Designed with ❤️ by <strong><a href="https://github.com/aadarsh2006ak">Aadarsh</a></strong> | Let's build something remarkable together!
