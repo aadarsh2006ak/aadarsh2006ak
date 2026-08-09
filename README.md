@@ -126,9 +126,9 @@ Developer Profile:
 
 | Project | Tech Stack | Highlights | Links |
 | :--- | :--- | :--- | :---: |
-| 🎓 **AI Placement Hub** | `MERN`, `Gemini AI`, `Socket.IO`, `Tailwind` | End-to-end placement intelligence platform with ATS resume scanner, AI mock interview simulator, code editor & recruiter pipelines. | [Source Code](https://github.com/aadarsh2006ak) |
-| 🩺 **Medical Report Analyzer** | `React`, `Node.js`, `Gemini API`, `OCR` | Smart healthcare diagnostic tool extracting clinical parameters via OCR and generating simplified health risk summaries. | [Source Code](https://github.com/aadarsh2006ak) |
-| ☕ **Student Tech Portal** | `Java`, `OOP`, `Data Structures` | Modular recruitment and student management system utilizing core Object-Oriented principles and secure role workflows. | [Source Code](https://github.com/aadarsh2006ak) |
+| 🎓 **AI Placement Hub** | `MERN`, `Gemini AI`, `Socket.IO`, `Tailwind` | End-to-end placement intelligence platform with ATS resume scanner, AI mock interview simulator, code editor & recruiter pipelines. | [Source Code](https://github.com/aadarsh2006ak/Ai-placementHub) |
+| 🩺 **Medical Report Analyzer** | `React`, `Node.js`, `Gemini API`, `OCR` | Smart healthcare diagnostic tool extracting clinical parameters via OCR and generating simplified health risk summaries. | [Source Code](https://github.com/aadarsh2006ak/Medical-report-analyzer) |
+| ☕ **Student Tech Portal** | `Java`, `OOP`, `Data Structures` | Modular recruitment and student management system utilizing core Object-Oriented principles and secure role workflows. | [Source Code](https://github.com/aadarsh2006ak/Tech-internship-skill-portal) |
 | 🌐 **Developer Portfolio** | `React`, `Tailwind CSS`, `Netlify` | Interactive developer portfolio featuring projects, live demos, responsive design, and contact channels. | [Live Demo](https://aadarsh-dev-portfolio.netlify.app/) |
 
 </div>
