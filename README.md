@@ -5,9 +5,9 @@
 
   <br/>
 
-  <!-- ==================== ANIMATED TYPING SVG ==================== -->
+  <!-- ==================== ANIMATED TYPING SVG (CLEAN URL ENCODED) ==================== -->
   <a href="https://aadarsh-dev-portfolio.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=620&height=50&lines=☕+Java+%26+OOP+Software+Developer;⚡+Full+Stack+MERN+Engineer;🧠+Generative+AI+%26+LLM+Integrator;🚀+Competitive+Programmer+%40LeetCode;🎯+B.Tech+CSE+Student+(2024-2028)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&height=45&lines=Java+%26+OOP+Software+Developer;Full+Stack+MERN+Engineer;Generative+AI+%26+LLM+Integrator;Competitive+Programmer+%40LeetCode;B.Tech+CSE+Student+(2024-2028)" alt="Typing SVG" />
   </a>
 
   <!-- ==================== STATS & STATUS PILLS ==================== -->
