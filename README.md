@@ -1,129 +1,100 @@
-
-<h1 align="center">Hi, I'm Aadarsh 👋</h1>
+<h1 align="center">Hi 👋, I'm Aadarsh</h1>
+<h3 align="center">Software Developer | Full-Stack (MERN) Developer | Generative AI & Prompt Engineering Enthusiast</h3>
 
 <p align="center">
-B.Tech CSE • Backend-focused builder • Learning by building projects
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=200&section=header&text=Aadarsh&fontSize=80&fontColor=fff&animation=twinkle&fontAlignY=35" />
 </p>
 
 <p align="center">
-Building web apps • Exploring software development • Growing one project at a time
+  <a href="https://aadarsh-dev-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00F7F7?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/aadarshkumar2006/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/aadarsh_2026/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://github.com/aadarsh2006ak" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:kumar869645@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aadarsh2006ak&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+<img align="right" alt="Coding GIF" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
----
+### 👨‍💻 About Me
 
-## /about_me
+```js
+const aadarsh = {
+    pronouns: "He/Him",
+    role: "Full-Stack (MERN) Developer",
+    currentFocus: ["Generative AI", "Prompt Engineering"],
+    stack: ["Java", "JavaScript", "React", "Node.js", "MongoDB"],
+    motto: "Build. Ship. Iterate.",
 
-```txt
-> Student → Builder → Better builder
+    lifeLoop: function () {
+        while (alive) {
+            code();
+            learn();
+            build();
+            repeat();
+        }
+    }
+};
 ```
 
-I'm a Computer Science student focused on software development.
+<br clear="right"/>
 
-Right now I'm spending most of my time:
-- building full-stack projects
-- strengthening Java core concepts
-- improving backend thinking
-- learning how production apps are designed
+## ⚒️ Tech Stack
 
-I enjoy turning ideas into working products and learning through iteration.
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
----
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
 
-## /currently_learning
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-```
-class CurrentFocus {
-    String backend = "Spring Boot";
-    String language = "Java";
-    String fundamentals = "DSA + Core Concepts";
-    String goal = "Build stronger full-stack systems";
-}
-```
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
+### 🤖 AI / ML
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge&logo=probot&logoColor=white)
 
-## /tech_stack
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
-<p>
+<br/>
 
-<img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express"/>
-<img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql"/>
-<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git"/>
-
-</p>
-
----
-
-## /featured_projects
-
-| Project | Description |
-|---|---|
-| **my-portfolio** | Personal portfolio website to present projects, skills, and developer journey |
-| **mern-project-E-commerce-1** | Full-stack e-commerce application with product flow and modern web architecture |
-| **currency-converter** | Currency conversion tool focused on API integration and frontend usability |
-| **student-assignment-management-system** | Assignment tracking system for managing submissions and workflow |
-| **weather-app** | Weather application using live data and responsive UI |
-| **netflix clone** | Streaming-inspired UI recreation focused on frontend implementation |
-| **ed-tech platform** | Learning platform concept built around education and user interaction |
-
-> More projects → Explore my repositories
-
----
-
-## /developer_stats
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aadarsh2006ak&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadarsh2006ak&layout=compact&hide_border=true&theme=transparent"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aadarsh2006ak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadarsh2006ak&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=aadarsh2006ak&theme=transparent&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com/?user=aadarsh2006ak&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## /outside_the_code
-
-Things I enjoy outside development:
-
-🎮 Gaming  
-🏏 Cricket  
-🏋️ Fitness  
-🧩 Problem solving  
-
----
-
-## /connect
-
-<p>
-
-🔗 LinkedIn → https://www.linkedin.com/in/aadarsh-kumar-646361335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
-🌐 Portfolio → https://aadarsh-portfolio-7.netlify.app/
-
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadarsh2006ak&theme=tokyo-night&hide_border=true" />
 </p>
 
----
+Snake contribution graph — needs a one-time GitHub Actions setup in your profile repo (aadarsh2006ak/aadarsh2006ak).
+Add the workflow from https://github.com/Platane/snk to enable this, then uncomment below:
 
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aadarsh2006ak/aadarsh2006ak/output/github-snake-dark.svg" />
+</p>
 
-**Building. Learning. Improving. Repeat.**
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aadarsh2006ak&style=for-the-badge&color=7B42F6" alt="profile views" />
+</p>
