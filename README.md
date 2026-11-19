@@ -1,13 +1,13 @@
 <div align="center">
 
   <!-- ==================== HEADER ANIMATED BANNER ==================== -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=230&section=header&text=Hi,%20I'm%20Aadarsh%20👋&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=SDE%20%E2%80%A2%20Java%20%26%20Spring%20Boot%20Engineer%20%E2%80%A2%20Full%20Stack%20Architect&descAlignY=62&descAlign=50&descSize=18" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=230&section=header&text=Hi,%20I'm%20Aadarsh%20👋&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=SDE%20%E2%80%A2%20Java%20and%20Spring%20Boot%20Engineer%20%E2%80%A2%20Full%20Stack%20Architect&descAlignY=62&descAlign=50&descSize=18" width="100%" alt="Header Banner" />
 
   <br/>
 
-  <!-- ==================== ANIMATED TYPING SVG ==================== -->
+  <!-- ==================== ANIMATED TYPING SVG (CLEAN & BUG-FREE) ==================== -->
   <a href="https://aadarsh-dev-portfolio.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&height=45&lines=SDE+%26+Java+%2F+Spring+Boot+Developer;Enterprise+Backend+Architect+(PostgreSQL%2C+Redis);Full+Stack+MERN+%26+Real-Time+Systems;Gen-AI+Pipelines+(Gemini%2C+Groq%2C+RAG);B.Tech+CSE+(3rd+Year)+%40Ganga+Inst.+of+Tech+%26+Mgmt" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&height=45&lines=SDE+%7C+Java+and+Spring+Boot+Engineer;Enterprise+Backend+Architect+(PostgreSQL%2C+Redis);Full+Stack+MERN+%2B+Real-Time+Systems;Gen-AI+Pipelines+(Gemini%2C+Groq%2C+RAG);B.Tech+CSE+(3rd+Year)+%40Ganga+Inst.+of+Tech" alt="Typing SVG" />
   </a>
 
   <!-- ==================== STATS & STATUS PILLS ==================== -->
